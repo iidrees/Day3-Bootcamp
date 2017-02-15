@@ -1,0 +1,16 @@
+{
+  "name": "day3-bootcamp",
+  "version": "1.0.0",
+  "description": "The Day 3 bootcamp repo, containing the solution to the tasks given",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Idrees Ibraheem",
+  "license": "ISC",
+  "dependencies": {
+    "jasmine": "^2.5.3"
+  },
+  "devDependencies": {},
+  "keywords": []
+}
